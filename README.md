@@ -22,7 +22,7 @@ Contribuição
 
 🚀 Instalação
 1. Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/raissacvf/Desafio-Uber.git
 
 2. Instale as dependências com Maven
 mvn install
