@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "cloud.aws.credentials.access-key",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.aws.credentials.access-key'"
+  },
+  {
+    "name": "cloud.aws.credentials.access-key",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.aws.credentials.access-key'"
+  },
+  {
+    "name": "cloud.aws.credentials.access-key",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.aws.credentials.access-key'"
+  },
+  {
+    "name": "Type",
+    "type": "java.lang.String",
+    "description": "A description for 'Type'"
+  },
+  {
+    "name": "access-key-id",
+    "type": "java.lang.String",
+    "description": "A description for 'access-key-id'"
+  },
+  {
+    "name": "Type",
+    "type": "java.lang.String",
+    "description": "A description for 'Type'"
+  },
+  {
+    "name": "access-key-id",
+    "type": "java.lang.String",
+    "description": "A description for 'access-key-id'"
+  },
+  {
+    "name": "secret-access-key",
+    "type": "java.lang.String",
+    "description": "A description for 'secret-access-key'"
+  },
+  {
+    "name": "cloud.aws.credentials.secret_key",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.aws.credentials.secret_key'"
+  },
+  {
+    "name": "cloud.aws.region.static",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.aws.region.static'"
+  }
+]}   
